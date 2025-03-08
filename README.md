@@ -1,0 +1,1 @@
+Inside the **.dbc** file, you will find the complete code and all related details. Additionally, I have uploaded a **.docx** file that contains full details about the data, along with the **ER diagram**.
